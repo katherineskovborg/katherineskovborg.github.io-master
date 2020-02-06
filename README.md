@@ -1,2 +1,2 @@
-# katherineskovborg.github.io-master
+ katherineskovborg.github.io
  
